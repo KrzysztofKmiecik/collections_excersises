@@ -1,4 +1,4 @@
 package com.javagda26.z;
 
-public class Listy {
+public class Listy<T> {
 }
